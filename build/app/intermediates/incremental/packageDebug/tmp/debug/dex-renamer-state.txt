@@ -1,0 +1,4 @@
+#Sun Oct 04 14:24:00 CEST 2020
+base.0=D\:\\flutterProjects\\quizzler-flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
